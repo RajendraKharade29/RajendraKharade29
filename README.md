@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RajendraKharade29/RajendraKharade29/main/profile.jpg" width="150" alt="Rajendra Kharade"/>
+<img src="https://raw.githubusercontent.com/RajendraKharade29/RajendraKharade29/main/devops-banner.png" width="100%" alt="Rajendra Kharade - DevOps Engineer"/>
+
+</div>
 
 # 👋 Hi, I'm Rajendra Kharade
 
