@@ -1,52 +1,60 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RajendraKharade29/RajendraKharade29/main/profile.jpg" width="130" alt="Rajendra Kharade"/>
+<img src="https://raw.githubusercontent.com/RajendraKharade29/RajendraKharade29/main/profile.jpg" width="150" alt="Rajendra Kharade"/>
 
 # 👋 Hi, I'm Rajendra Kharade
 
 ### 🚀 Linux Administrator → DevOps Engineer
 
-**Linux • AWS • Docker • Terraform • Git • CI/CD • Automation**
-
-<br>
+**Linux • AWS • Docker • Terraform • Git • CI/CD • Kubernetes**
 
 [![GitHub](https://img.shields.io/badge/GitHub-RajendraKharade29-181717?style=for-the-badge\&logo=github)](https://github.com/RajendraKharade29)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=RajendraKharade29\&style=for-the-badge)](https://github.com/RajendraKharade29)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **Linux Administrator and System Management Professional** with **4+ years of experience** in server management, troubleshooting, monitoring and Linux administration.
+I'm a **Linux Administrator and System Management Professional** with **4+ years of experience** in Linux administration, server management, troubleshooting and system operations.
 
-Currently, I'm focused on developing strong practical skills in **DevOps, AWS Cloud, Infrastructure as Code, Containerization and CI/CD automation**.
+Currently, I'm building strong practical expertise in **DevOps, AWS Cloud, Docker, Terraform, CI/CD and Kubernetes** through hands-on projects and my **90 Days DevOps Learning Journey**.
 
-🎯 **Career Goal:** DevOps / Cloud Engineer
-
-💡 I believe in learning by **building real-world projects and automating repetitive tasks**.
-
----
-
-## 🛠️ Technical Skills
-
-| Category           | Technologies                              |
-| ------------------ | ----------------------------------------- |
-| 🐧 OS              | Linux, Ubuntu                             |
-| ☁️ Cloud           | AWS, EC2, S3, IAM                         |
-| 🐳 Containers      | Docker, Docker Compose                    |
-| 🏗️ IaC            | Terraform                                 |
-| 🔄 CI/CD           | GitHub Actions                            |
-| 🔧 Version Control | Git, GitHub                               |
-| 💻 Scripting       | Bash, Python                              |
-| 🌐 Web             | HTML, CSS, JavaScript, React, Vite        |
-| 📊 Monitoring      | Linux System Monitoring & Troubleshooting |
+* 🐧 Experienced in **Linux Administration & Server Management**
+* ☁️ Currently focusing on **AWS Cloud & Infrastructure**
+* 🐳 Learning and building projects with **Docker**
+* 🏗️ Practicing **Terraform Infrastructure as Code**
+* 🔄 Building **CI/CD pipelines with GitHub Actions**
+* ☸️ Learning **Kubernetes & Container Orchestration**
+* 🐍 Learning **Python & Bash for DevOps Automation**
+* 🎯 **Career Goal:** DevOps / Cloud Engineer
+* 💡 I believe in **Learn → Build → Automate → Deploy**
 
 ---
 
-## 🚀 DevOps Learning Journey
+## 🛠️ Tech Stack
 
-### 🔥 90 Days DevOps Challenge
+### 🐧 Operating Systems & Scripting
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python" />
+</p>
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,terraform" />
+</p>
+
+### 🐳 DevOps & CI/CD
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,kubernetes" />
+</p>
+
+## 🔥 90 Days DevOps Learning Journey
 
 ```text
 🐧 Linux Administration
@@ -59,7 +67,7 @@ Currently, I'm focused on developing strong practical skills in **DevOps, AWS Cl
         ↓
 🏗️ Terraform
         ↓
-🔄 CI/CD with GitHub Actions
+🔄 CI/CD
         ↓
 ☸️ Kubernetes
         ↓
@@ -72,25 +80,31 @@ Currently, I'm focused on developing strong practical skills in **DevOps, AWS Cl
 
 ### ☁️ RK Cloud DevOps
 
-Hands-on DevOps project covering cloud deployment, Git, GitHub and CI/CD concepts.
+Cloud and DevOps project focused on application deployment, Git, GitHub and CI/CD.
 
-**Tech:** AWS • Git • GitHub • GitHub Actions • React/Vite
+**Tech:** AWS • Git • GitHub Actions • React • Vite
+
+🔗 [View Project](https://github.com/RajendraKharade29/rk-cloud-devops)
 
 ---
 
 ### 🐳 Docker Projects
 
-Containerized application deployment using Docker and Dockerfile.
+Hands-on containerization projects using Docker, Dockerfile and Linux.
 
 **Tech:** Docker • Linux • Node.js
+
+🔗 [View Repositories](https://github.com/RajendraKharade29?tab=repositories)
 
 ---
 
 ### 🏗️ Terraform AWS Infrastructure
 
-Infrastructure as Code project for provisioning and managing AWS resources.
+Infrastructure as Code projects for provisioning and managing AWS infrastructure.
 
 **Tech:** Terraform • AWS • EC2 • S3
+
+🔗 [View Repositories](https://github.com/RajendraKharade29?tab=repositories)
 
 ---
 
@@ -98,62 +112,19 @@ Infrastructure as Code project for provisioning and managing AWS resources.
 
 Automated build and deployment workflows using GitHub Actions.
 
-**Tech:** GitHub Actions • Git • CI/CD
+**Tech:** Git • GitHub Actions • CI/CD
+
+🔗 [View Repositories](https://github.com/RajendraKharade29?tab=repositories)
 
 ---
 
-### 🌐 React Web Projects
+### 🌐 React & Vite Projects
 
-Modern responsive web applications developed using React and Vite.
+Modern responsive web applications built using React and Vite.
 
 **Tech:** React • JavaScript • Vite • CSS
 
----
-
-## ☁️ DevOps & Cloud Focus
-
-```text
-        ┌───────────────────┐
-        │   Linux & Bash    │
-        └─────────┬─────────┘
-                  ↓
-        ┌───────────────────┐
-        │    Git & GitHub    │
-        └─────────┬─────────┘
-                  ↓
-        ┌───────────────────┐
-        │      Docker       │
-        └─────────┬─────────┘
-                  ↓
-        ┌───────────────────┐
-        │      AWS Cloud    │
-        └─────────┬─────────┘
-                  ↓
-        ┌───────────────────┐
-        │     Terraform     │
-        └─────────┬─────────┘
-                  ↓
-        ┌───────────────────┐
-        │      CI / CD      │
-        └─────────┬─────────┘
-                  ↓
-        ┌───────────────────┐
-        │    Kubernetes     │
-        └───────────────────┘
-```
-
----
-
-## 📚 Currently Learning
-
-* 🐧 Advanced Linux Administration
-* ☁️ AWS Cloud
-* 🐳 Docker & Containerization
-* 🏗️ Terraform
-* 🔄 CI/CD & GitHub Actions
-* ☸️ Kubernetes
-* 🐍 Python for DevOps
-* 🤖 Automation
+🔗 [View Repositories](https://github.com/RajendraKharade29?tab=repositories)
 
 ---
 
@@ -161,11 +132,75 @@ Modern responsive web applications developed using React and Vite.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RajendraKharade29&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RajendraKharade29&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajendraKharade29&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajendraKharade29&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RajendraKharade29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajendraKharade29&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+| Technology        | Focus                       |
+| ----------------- | --------------------------- |
+| 🐧 Linux          | Advanced Administration     |
+| ☁️ AWS            | Cloud Infrastructure        |
+| 🐳 Docker         | Containerization            |
+| 🏗️ Terraform     | Infrastructure as Code      |
+| 🔄 GitHub Actions | CI/CD Automation            |
+| ☸️ Kubernetes     | Container Orchestration     |
+| 🐍 Python         | DevOps Automation           |
+| 🤖 Automation     | Infrastructure & Deployment |
+
+---
+
+## 🎯 DevOps Career Roadmap
+
+```text
+Linux Administration
+        │
+        ▼
+Git & GitHub
+        │
+        ▼
+Docker & Containers
+        │
+        ▼
+AWS Cloud
+        │
+        ▼
+Terraform / IaC
+        │
+        ▼
+CI/CD Automation
+        │
+        ▼
+Kubernetes
+        │
+        ▼
+☁️ DEVOPS / CLOUD ENGINEER
+```
 
 ---
 
@@ -173,11 +208,11 @@ Modern responsive web applications developed using React and Vite.
 
 > **Learn → Build → Automate → Deploy → Monitor → Improve**
 
-I continuously work on practical projects to strengthen my skills in **Linux, Cloud, DevOps and Automation**.
+I continuously build practical projects and improve my skills in **Linux, Cloud, DevOps, Automation and Infrastructure**.
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -191,7 +226,9 @@ I continuously work on practical projects to strengthen my skills in **Linux, Cl
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💡 "Building my DevOps career, one project at a time."
+
+### ⭐ Thanks for visiting my GitHub profile!
 
 **Keep Learning • Keep Building • Keep Automating 🚀**
 
